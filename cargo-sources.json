@@ -1237,27 +1237,27 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/gstreamer/gstreamer-0.25.1.crate",
-        "sha256": "ad8d6d77fae07708536f86a34ac15fc36c7e958ef7930b75119dba0242936f08",
-        "dest": "cargo/vendor/gstreamer-0.25.1"
+        "url": "https://static.crates.io/crates/gstreamer/gstreamer-0.25.2.crate",
+        "sha256": "28ca0c594cac4e86f5444aaa767c7bb810340c0710667a6467d3ead248e35e84",
+        "dest": "cargo/vendor/gstreamer-0.25.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"ad8d6d77fae07708536f86a34ac15fc36c7e958ef7930b75119dba0242936f08\", \"files\": {}}",
-        "dest": "cargo/vendor/gstreamer-0.25.1",
+        "contents": "{\"package\": \"28ca0c594cac4e86f5444aaa767c7bb810340c0710667a6467d3ead248e35e84\", \"files\": {}}",
+        "dest": "cargo/vendor/gstreamer-0.25.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/gstreamer-audio/gstreamer-audio-0.25.0.crate",
-        "sha256": "46e64660e1963ff3b6a4a5175f917524254a6ae36ac7b83e29b760d879a33073",
-        "dest": "cargo/vendor/gstreamer-audio-0.25.0"
+        "url": "https://static.crates.io/crates/gstreamer-audio/gstreamer-audio-0.25.2.crate",
+        "sha256": "2cdd06eb9c901b05902c55d106034319e2d730179744867564198d17c8486ed2",
+        "dest": "cargo/vendor/gstreamer-audio-0.25.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"46e64660e1963ff3b6a4a5175f917524254a6ae36ac7b83e29b760d879a33073\", \"files\": {}}",
-        "dest": "cargo/vendor/gstreamer-audio-0.25.0",
+        "contents": "{\"package\": \"2cdd06eb9c901b05902c55d106034319e2d730179744867564198d17c8486ed2\", \"files\": {}}",
+        "dest": "cargo/vendor/gstreamer-audio-0.25.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1770,14 +1770,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/lru/lru-0.17.0.crate",
-        "sha256": "0e0b564323a0fb6d54b864f625ae139de9612e27edb944dda37c109f05aac531",
-        "dest": "cargo/vendor/lru-0.17.0"
+        "url": "https://static.crates.io/crates/lru/lru-0.18.0.crate",
+        "sha256": "8a860605968fce16869fd239cf4237a82f3ac470723415db603b0e8b6c8d4fb9",
+        "dest": "cargo/vendor/lru-0.18.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"0e0b564323a0fb6d54b864f625ae139de9612e27edb944dda37c109f05aac531\", \"files\": {}}",
-        "dest": "cargo/vendor/lru-0.17.0",
+        "contents": "{\"package\": \"8a860605968fce16869fd239cf4237a82f3ac470723415db603b0e8b6c8d4fb9\", \"files\": {}}",
+        "dest": "cargo/vendor/lru-0.18.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
