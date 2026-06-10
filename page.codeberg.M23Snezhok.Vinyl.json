@@ -42,8 +42,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://codeberg.org/M23Snezhok/Vinyl/archive/v1.4.0.tar.gz",
-                    "sha256": "0c74b5f21a1f1ca3848f3ea2c0d7172ba2b053c4af279b66f9682cfd491a7e9f"
+                    "url" : "https://codeberg.org/M23Snezhok/Vinyl/archive/v1.4.1.tar.gz",
+                    "sha256": "299f01ea97f1dcf6a0f698cb02bc6db298389ab7d4c47228f4911516fd819790"
                 },
                 "cargo-sources.json"
             ]
